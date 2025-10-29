@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SecureFileStorageAppDemo</string>
+    <string name="register_account">Register Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="secure_login">Secure Login</string>
+    <string name="login">Login</string>
+    <string name="login_with_biometrics">Login with Biometrics</string>
+    <string name="no_account_register_here">No account? Register here</string>
+    <string name="main_fab">Main FAB</string>
+    <string name="current_directory">Current Directory</string>
+    <string name="add_file">Add File</string>
+    <string name="add_directory">Add Directory</string>
+    <string name="edit">Edit</string>
+    <string name="logout">Logout</string>
+    <string name="file_icon">File Icon</string>
+    <string name="encrypted_file">Encrypted File</string>
+    <string name="file_preview">File Preview</string>
+    <string name="default_directory_label">My Secure Files\n</string>
+    <string name="file_name">File Name</string>
+</resources>
